@@ -1,0 +1,6 @@
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\CSV Commands\http post project\obj\x86\Debug\CSVCommands.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\CSV Commands\http post project\bin\Debug\CSVCommands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\CSV Commands\http post project\bin\Debug\CSVCommands.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\CSV Commands\http post project\obj\x86\Debug\CSVCommands.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\CSV Commands\http post project\obj\x86\Debug\CSVCommands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\CSV Commands\http post project\obj\x86\Debug\CSVCommands.pdb
